@@ -1,5 +1,7 @@
 # flutter-chain
 
+要求 | 结果
+-  | -:
 开发系统 | Ubuntu 18.04 |
 IDE	        | vscode+安卓模拟器 |
 技术栈      | Flutter + dart |
